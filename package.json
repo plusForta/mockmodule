@@ -1,0 +1,9 @@
+{
+  "name": "mockModule",
+  "version": "1.0.0",
+  "description": "a mock Module object for the pattern lab and the modules plugin",
+  "license": "MIT",
+  "type": "kirby-plugin",
+  "devDependencies": {
+  }
+}
